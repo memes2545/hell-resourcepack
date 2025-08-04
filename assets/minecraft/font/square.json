@@ -1,0 +1,17 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "minecraft:include/squarespace"
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/square.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u2588"
+            ]
+        }
+    ]
+}
