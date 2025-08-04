@@ -1,0 +1,19 @@
+{
+    "model": {
+      "type": "select",
+      "property": "custom_model_data",
+      "fallback": {
+        "type": "model",
+        "model": "item/popped_chorus_fruit"
+      },
+      "cases": [
+        {
+          "when": "animation_controller",
+          "model": {
+            "type": "model",
+            "model": "foxyjumpscare:item/animation_controller"
+          }
+        }
+      ]
+    }
+  }

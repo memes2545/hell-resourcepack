@@ -1,0 +1,9 @@
+{
+    
+    "foxy_jumpscare": {
+        "category": "record",
+        "sounds": [
+            "foxyjumpscare:jumpscare/foxy_jumpscare"
+        ]
+    }
+}
